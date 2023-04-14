@@ -1,7 +1,7 @@
 
   ### Ivan Quiroga
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edwardvee)](https://github.com/anuraghazra/github-readme-stats)<img src="https://media.tenor.com/bkDXqE4DzH8AAAAi/columbo-watamote.gif"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edwardvee)](https://github.com/anuraghazra/github-readme-stats)<img src="https://media.tenor.com/bkDXqE4DzH8AAAAi/columbo-watamote.gif" height="200"/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwardvee)](https://github.com/anuraghazra/github-readme-stats)
