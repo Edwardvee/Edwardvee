@@ -1,6 +1,6 @@
 
   ### Ivan Quiroga
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=000000&width=435&lines=Welcome+Quiroguers;Never+forget;What+we+shared;'Cos+promises++were+never+enough;For+us)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=6CF76F&width=435&lines=Welcome+Quiroguers;Never+forget;What+we+shared;'Cos+promises++were+never+enough;For+us)](https://git.io/typing-svg)
 <br>
 
 -Javascript entrepenour
