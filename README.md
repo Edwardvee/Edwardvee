@@ -7,7 +7,7 @@
 <br>
 -Coding since 2012
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edwardvee)](https://github.com/anuraghazra/github-readme-stats)<img src="https://media.tenor.com/bkDXqE4DzH8AAAAi/columbo-watamote.gif" height="200"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edwardvee)](https://github.com/anuraghazra/github-readme-stats)<picture><img src="https://media.tenor.com/bkDXqE4DzH8AAAAi/columbo-watamote.gif" height="200"/></picture>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwardvee)](https://github.com/anuraghazra/github-readme-stats)
 <picture><img height="200" alt="javascript" src="https://media.tenor.com/ge2zw2z3EB4AAAAi/shaco-pls-shaco.gif"/></picture>
 
