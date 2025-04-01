@@ -11,6 +11,6 @@ class IvanQuiroga {
 
 ```
 
-<picture src="https://media1.tenor.com/m/MPnfJyNHwj0AAAAd/tomoko-watamote.gif">
-<picture src="https://media.tenor.com/xv4YcvjTsRoAAAAi/zzz.gif">
+<picture href="https://media1.tenor.com/m/MPnfJyNHwj0AAAAd/tomoko-watamote.gif">
+<picture href="https://media.tenor.com/xv4YcvjTsRoAAAAi/zzz.gif">
 
