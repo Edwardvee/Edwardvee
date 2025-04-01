@@ -11,4 +11,4 @@ class IvanQuiroga {
 
 ```
 
-<img src="[https://tenor.com/es-419/view/tomoko-watamote-tomoko-kuroki-kuroki-dance-gif-3529097142210118205](https://media1.tenor.com/m/MPnfJyNHwj0AAAAd/tomoko-watamote.gif)">
+<img src="https://media1.tenor.com/m/MPnfJyNHwj0AAAAd/tomoko-watamote.gif">
