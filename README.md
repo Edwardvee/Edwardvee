@@ -42,7 +42,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/edwardvee/edwardvee/output/snake.svg" alt="Snake animation" />
 
 ###
 <picture><img src="https://media1.tenor.com/m/MPnfJyNHwj0AAAAd/tomoko-watamote.gif"></picture>
