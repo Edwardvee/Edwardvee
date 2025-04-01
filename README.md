@@ -1,3 +1,5 @@
+<picture><img src="https://media.tenor.com/xv4YcvjTsRoAAAAi/zzz.gif"></picture>
+
 ```javascript
 class IvanQuiroga {
   constructor() {
@@ -12,5 +14,4 @@ class IvanQuiroga {
 ```
 
 <picture><img src="https://media1.tenor.com/m/MPnfJyNHwj0AAAAd/tomoko-watamote.gif"></picture>
-<picture><img src="https://media.tenor.com/xv4YcvjTsRoAAAAi/zzz.gif"></picture>
 
