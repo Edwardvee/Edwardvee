@@ -1,4 +1,4 @@
-<picture><img src="https://media.tenor.com/xv4YcvjTsRoAAAAi/zzz.gif"></picture>
+<picture style="justify-end"><img src="https://media.tenor.com/xv4YcvjTsRoAAAAi/zzz.gif"></picture>
 
 ```javascript
 class IvanQuiroga {
