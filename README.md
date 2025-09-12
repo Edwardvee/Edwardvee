@@ -15,7 +15,7 @@ Soy **Iván Quiroga**, un **Front End Developer** con base en **Argentina**, esp
 
 ---
 
-## 📊 Mis estadísticas de GitHub
+## 📊 Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=edwardvee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph" />
@@ -24,7 +24,7 @@ Soy **Iván Quiroga**, un **Front End Developer** con base en **Argentina**, esp
 
 ---
 
-## 🛠️ Tecnologías en mi arsenal
+## 🛠️ Mi Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
@@ -42,15 +42,6 @@ Soy **Iván Quiroga**, un **Front End Developer** con base en **Argentina**, esp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
 </div>
 
----
-
-## 🌟 Proyectos destacados
-
-- **[Nombre del Proyecto 1]**: Una aplicación web en **React** con animaciones fluidas y diseño responsivo, inspirada en interfaces modernas. [Enlace al repositorio]
-- **[Nombre del Proyecto 2]**: Un dashboard interactivo construido con **TypeScript** y **CSS**, optimizado para rendimiento y usabilidad. [Enlace al repositorio]
-- **Explora más**: ¡Visita mis repositorios para descubrir otros proyectos llenos de código y creatividad!
-
----
 
 ## 📬 Conéctate conmigo
 
@@ -67,7 +58,7 @@ Soy **Iván Quiroga**, un **Front End Developer** con base en **Argentina**, esp
 
 ## 🎮 Más sobre mí
 
-Cuando no estoy escribiendo código, me sumerjo en el mundo del anime, buscando inspiración en historias épicas y diseños vibrantes. Estoy siempre aprendiendo nuevas tecnologías y listo para unirme a un equipo donde pueda contribuir con mis habilidades y crecer como desarrollador. ¡Vamos a construir algo increíble juntos! 🚀
+Cuando no estoy escribiendo código, me gusta pasar mi tiempo aprendiendo, haciendo arte, jugando videojuegos y por sobretodo poreando. 🚀
 
 <div align="center">
   <img src="https://media.tenor.com/xv4YcvjTsRoAAAAi/zzz.gif" height="150" alt="anime gif" />
