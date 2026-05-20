@@ -11,6 +11,6 @@ Current research
 
 My tools
 
-OS: Arch Linux (Daily driver / Hardening) / Isolated VMs
-Stack Reversing: Ghidra, Sysinternals
-Languages: C, Assembly (x86/x64), Go, Python.
+### OS: Arch Linux (Daily driver / Hardening) / Isolated VMs
+### Stack Reversing: Ghidra, Sysinternals
+### Languages: C, Assembly (x86/x64), Go, Python.
